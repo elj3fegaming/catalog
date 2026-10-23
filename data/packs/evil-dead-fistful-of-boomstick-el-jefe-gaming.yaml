@@ -1,0 +1,37 @@
+key: evil-dead-fistful-of-boomstick-el-jefe-gaming
+name: 'Evil Dead: A Fistful of Boomstick — HD Pack'
+game:
+  title: 'Evil Dead: A Fistful of Boomstick'
+  serials:
+  - SLUS-20403
+credits:
+- creator: el-jefe-gaming
+  role: author
+type: mixed
+description: 'El Jefe Gaming HD texture pack for Evil Dead: A Fistful of Boomstick. See the linked GBAtemp
+  release thread for features, installation instructions, and compatibility details. Downloads are distributed
+  by the creator through Ko-fi.'
+sources:
+- kind: shop
+  url: https://ko-fi.com/s/f492f4bf7a
+  primary: true
+  note: NetherSX2 (Android) download
+- kind: shop
+  url: https://ko-fi.com/s/ca170ed76a
+  primary: false
+  note: PCSX2 (PC) download
+- kind: forum_thread
+  url: https://gbatemp.net/threads/evil-dead-a-fistful-of-boomstic-update-pcsx2-and-android-nethersx2-slus-20403.670636
+media:
+  images:
+  - source_url: https://storage.ko-fi.com/cdn/useruploads/display/01cd688a-98fa-4515-a062-9f2181abc0f4_94cb3a34-e79d-4fbe-8859-a60eac79e52e.jpg
+    alt: 'Evil Dead: A Fistful of Boomstick — HD Pack cover artwork'
+    credit: el-jefe-gaming
+  videos:
+  - provider: youtube
+    id: pUo2RUuGNDQ
+  - provider: youtube
+    id: MR1If9r9Oh8
+hosting:
+  state: listed
+  reason: Creator distributes the pack via Ko-fi; third-party hosting is not authorized.

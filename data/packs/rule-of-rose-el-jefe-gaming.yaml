@@ -1,0 +1,36 @@
+key: rule-of-rose-el-jefe-gaming
+name: Rule of Rose — HD Texture Pack
+game:
+  title: Rule of Rose
+  serials:
+  - SLUS-21448
+credits:
+- creator: el-jefe-gaming
+  role: author
+type: mixed
+description: El Jefe Gaming HD texture pack for Rule of Rose. See the linked GBAtemp release thread for features,
+  installation instructions, and compatibility details. Downloads are distributed by the creator through Ko-fi.
+sources:
+- kind: shop
+  url: https://ko-fi.com/s/3b1fe60e9b
+  primary: true
+  note: NetherSX2 (Android) download
+- kind: shop
+  url: https://ko-fi.com/s/1415297e47
+  primary: false
+  note: PCSX2 (PC) download
+- kind: forum_thread
+  url: https://gbatemp.net/threads/rule-of-rose-ps2-hd-texture-pack-update-slus-21448-70-fps-pcsx2-android-nethersx2-1-9.673137
+media:
+  images:
+  - source_url: https://storage.ko-fi.com/cdn/useruploads/display/53a0ca38-2e82-4576-8610-a94d1d72720f_9298be48-ddf9-49e1-8d81-f19dfd40a9.jpg
+    alt: Rule of Rose — HD Texture Pack cover artwork
+    credit: el-jefe-gaming
+  videos:
+  - provider: youtube
+    id: EWWNCVNRMX8
+  - provider: youtube
+    id: -A7nZlG7g0M
+hosting:
+  state: listed
+  reason: Creator distributes the pack via Ko-fi; third-party hosting is not authorized.

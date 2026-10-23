@@ -1,0 +1,30 @@
+key: bully-halloween-el-jefe-gaming
+name: Bully PS2 — Halloween Edition — El Jefe HD Pack
+game:
+  title: Bully
+credits:
+- creator: el-jefe-gaming
+  role: author
+type: mixed
+description: El Jefe Gaming HD texture pack for Bully. See the linked GBAtemp release thread for features,
+  installation instructions, and compatibility details. Downloads are distributed by the creator through Ko-fi.
+sources:
+- kind: shop
+  url: https://ko-fi.com/s/30d598300b
+  primary: true
+  note: Creator download page
+- kind: forum_thread
+  url: https://gbatemp.net/threads/jack-o-lanternfire-bully-ps2-halloween-edition-orginal-mastermod-pedros-mod-el-jefe-hd-pack-firejack-o-lantern.685715
+media:
+  images:
+  - source_url: https://i.imgur.com/26IQBic.png
+    alt: Bully PS2 — Halloween Edition — El Jefe HD Pack cover artwork
+    credit: el-jefe-gaming
+  videos:
+  - provider: youtube
+    id: bkVel2FrED8
+  - provider: youtube
+    id: I8Y306iC_KA
+hosting:
+  state: listed
+  reason: Creator distributes the pack via Ko-fi; third-party hosting is not authorized.

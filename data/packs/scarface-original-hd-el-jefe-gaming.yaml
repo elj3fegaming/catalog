@@ -1,0 +1,35 @@
+key: scarface-original-hd-el-jefe-gaming
+name: 'Scarface: The World Is Yours — Original HD Pack'
+game:
+  title: 'Scarface: The World Is Yours'
+credits:
+- creator: el-jefe-gaming
+  role: author
+type: mixed
+description: 'El Jefe Gaming HD texture pack for Scarface: The World Is Yours. See the linked GBAtemp release
+  thread for features, installation instructions, and compatibility details. Downloads are distributed by the
+  creator through Ko-fi.'
+sources:
+- kind: shop
+  url: https://ko-fi.com/s/5f3c8c3520
+  primary: true
+  note: NetherSX2 (Android) download
+- kind: shop
+  url: https://ko-fi.com/s/525627827d
+  primary: false
+  note: PCSX2 (PC) download
+- kind: forum_thread
+  url: https://gbatemp.net/threads/scarface-remaster-pc-and-android.660719
+media:
+  images:
+  - source_url: https://storage.ko-fi.com/cdn/useruploads/display/737042c8-6a49-412f-9c58-400660b569ce_2c66ef92-01f7-454f-b629-b25aefeeec5f.jpg
+    alt: 'Scarface: The World Is Yours — Original HD Pack cover artwork'
+    credit: el-jefe-gaming
+  videos:
+  - provider: youtube
+    id: aMUxZPbmK
+  - provider: youtube
+    id: Qz2M40k3yso
+hosting:
+  state: listed
+  reason: Creator distributes the pack via Ko-fi; third-party hosting is not authorized.

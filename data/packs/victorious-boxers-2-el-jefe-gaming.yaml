@@ -1,0 +1,35 @@
+key: victorious-boxers-2-el-jefe-gaming
+name: 'Victorious Boxers 2: Fighting Spirit — HD Pack'
+game:
+  title: 'Victorious Boxers 2: Fighting Spirit'
+credits:
+- creator: el-jefe-gaming
+  role: author
+type: mixed
+description: 'El Jefe Gaming HD texture pack for Victorious Boxers 2: Fighting Spirit. See the linked GBAtemp release
+  thread for features, installation instructions, and compatibility details. Downloads are distributed by the creator
+  through Ko-fi.'
+sources:
+- kind: shop
+  url: https://ko-fi.com/s/f95024e097
+  primary: true
+  note: NetherSX2 (Android) download
+- kind: shop
+  url: https://ko-fi.com/s/51840d2eed
+  primary: false
+  note: PCSX2 (PC) download
+- kind: forum_thread
+  url: https://gbatemp.net/threads/victorious-boxers-2-ps2-update-pcsx2-android-nethersx2.674746
+media:
+  videos:
+  - provider: youtube
+    id: Tu7NxHpjbRw
+  - provider: youtube
+    id: Wz7jVnCjjGo
+  images:
+  - source_url: https://imagepaste.org/i/mv7y67s6.gif
+    alt: 'Victorious Boxers 2: Fighting Spirit HD pack cover artwork'
+    credit: el-jefe-gaming
+hosting:
+  state: listed
+  reason: Creator distributes the pack via Ko-fi; third-party hosting is not authorized.

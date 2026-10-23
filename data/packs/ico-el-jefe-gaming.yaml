@@ -1,0 +1,42 @@
+key: ico-el-jefe-gaming
+name: ICO — El Jefe Unfaithful Edition
+game:
+  title: ICO
+credits:
+- creator: el-jefe-gaming
+  role: author
+type: mixed
+description: El Jefe Gaming HD texture pack for ICO. See the linked GBAtemp release thread for features, installation
+  instructions, and compatibility details. Downloads are distributed by the creator through Ko-fi.
+sources:
+- kind: shop
+  url: https://ko-fi.com/s/0014a04b5b
+  primary: true
+  note: NetherSX2 (Android) download
+- kind: shop
+  url: https://ko-fi.com/s/4941a8c574
+  primary: false
+  note: PCSX2 (PC) download
+- kind: forum_thread
+  url: https://gbatemp.net/threads/ico-el-jefe-unfaithful-edition-pcsx2-and-android.682730
+media:
+  images:
+  - source_url: https://i.imgur.com/k0wgnMO.png
+    alt: ICO — El Jefe Unfaithful Edition cover artwork
+    credit: el-jefe-gaming
+  videos:
+  - provider: youtube
+    id: XFAmA0GtgfA
+  - provider: youtube
+    id: SP2gEmfcIpc
+  - provider: youtube
+    id: gll2E_PbROQ
+  - provider: youtube
+    id: jUP5iu_mwSQ
+  - provider: youtube
+    id: l2CYi3u-UCk
+  - provider: youtube
+    id: 1kxz8KIx0I8
+hosting:
+  state: listed
+  reason: Creator distributes the pack via Ko-fi; third-party hosting is not authorized.

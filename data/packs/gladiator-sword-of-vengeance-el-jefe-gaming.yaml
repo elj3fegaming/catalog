@@ -1,0 +1,37 @@
+key: gladiator-sword-of-vengeance-el-jefe-gaming
+name: 'Gladiator: Sword of Vengeance — HD Remaster'
+game:
+  title: 'Gladiator: Sword of Vengeance'
+  serials:
+  - SLUS-20793
+credits:
+- creator: el-jefe-gaming
+  role: author
+type: mixed
+description: 'El Jefe Gaming HD texture pack for Gladiator: Sword of Vengeance. See the linked GBAtemp release
+  thread for features, installation instructions, and compatibility details. Downloads are distributed by the
+  creator through Ko-fi.'
+sources:
+- kind: shop
+  url: https://ko-fi.com/s/c282ef6cf6
+  primary: true
+  note: NetherSX2 (Android) download
+- kind: shop
+  url: https://ko-fi.com/s/74f5a1ad6b
+  primary: false
+  note: PCSX2 (PC) download
+- kind: forum_thread
+  url: https://gbatemp.net/threads/gladiator-sword-of-vengeance-remaster-ps2-hd-pack-slus-20793-pcsx2-android-nethersx2.675061
+media:
+  images:
+  - source_url: https://storage.ko-fi.com/cdn/useruploads/display/3cb38a9b-a326-40ce-96a5-878cdf116ebb_927d718c-fa87-4f16-9e75-e6d0280acf4e.jpg
+    alt: 'Gladiator: Sword of Vengeance — HD Remaster cover artwork'
+    credit: el-jefe-gaming
+  videos:
+  - provider: youtube
+    id: nzXhBx5eaj0
+  - provider: youtube
+    id: HVAY3AB6TV8
+hosting:
+  state: listed
+  reason: Creator distributes the pack via Ko-fi; third-party hosting is not authorized.
