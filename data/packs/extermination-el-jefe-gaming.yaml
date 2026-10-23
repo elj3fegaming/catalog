@@ -1,30 +1,25 @@
 key: extermination-el-jefe-gaming
-name: Extermination — HD Texture Pack
+name: Extermination — HD Pack
 game:
   title: Extermination
-  serials:
-  - SCES-50240
 credits:
 - creator: el-jefe-gaming
   role: author
 type: mixed
-description: El Jefe Gaming HD texture pack for Extermination. See the linked GBAtemp release thread for features,
-  installation instructions, and compatibility details. Downloads are distributed by the creator through Ko-fi.
+description: El Jefe Gaming HD texture pack for Extermination. See the linked GBAtemp release thread for features, installation instructions, and compatibility details. Downloads are distributed by the creator through Ko-fi.
 sources:
 - kind: shop
   url: https://ko-fi.com/s/59e98b29e2
   primary: true
-  note: Creator download page 1 (platform not specified)
 - kind: shop
   url: https://ko-fi.com/s/023c5a9305
   primary: false
-  note: Creator download page 2 (platform not specified)
 - kind: forum_thread
   url: https://gbatemp.net/threads/extermination-sces-50240-update-pcsx2-and-android-nethersx2.672867
 media:
   images:
   - source_url: https://storage.ko-fi.com/cdn/useruploads/display/1380c066-c282-4d17-bf3d-2acea7c238d3_02bd2f21-d09f-409f-9ae2-4d5113966f76.jpg
-    alt: Extermination — HD Texture Pack cover artwork
+    alt: Extermination — HD Pack cover artwork
     credit: el-jefe-gaming
   videos:
   - provider: youtube

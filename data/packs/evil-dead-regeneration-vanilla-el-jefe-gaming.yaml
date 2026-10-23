@@ -2,15 +2,11 @@ key: evil-dead-regeneration-vanilla-el-jefe-gaming
 name: 'Evil Dead: Regeneration — Vanilla HD Pack'
 game:
   title: 'Evil Dead: Regeneration'
-  serials:
-  - SLUS-21048
 credits:
 - creator: el-jefe-gaming
   role: author
 type: mixed
-description: 'El Jefe Gaming HD texture pack for Evil Dead: Regeneration. See the linked GBAtemp release thread
-  for features, installation instructions, and compatibility details. Downloads are distributed by the creator
-  through Ko-fi.'
+description: 'El Jefe Gaming HD texture pack for Evil Dead: Regeneration. See the linked GBAtemp release thread for features, installation instructions, and compatibility details. Downloads are distributed by the creator through Ko-fi.'
 sources:
 - kind: shop
   url: https://ko-fi.com/s/2ab16bf68a
@@ -19,7 +15,7 @@ sources:
 - kind: shop
   url: https://ko-fi.com/s/c455f9b9c4
   primary: false
-  note: Creator download page 2 (platform not specified)
+  note: PCSX2 (PC) download
 - kind: forum_thread
   url: https://gbatemp.net/threads/evil-dead-regeneration-ps2-slus-21048-hd-texture-update.661606
 media:

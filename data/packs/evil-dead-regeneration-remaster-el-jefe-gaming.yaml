@@ -6,9 +6,7 @@ credits:
 - creator: el-jefe-gaming
   role: author
 type: mixed
-description: 'El Jefe Gaming HD texture pack for Evil Dead: Regeneration. See the linked GBAtemp release thread
-  for features, installation instructions, and compatibility details. Downloads are distributed by the creator
-  through Ko-fi.'
+description: 'El Jefe Gaming HD texture pack for Evil Dead: Regeneration. See the linked GBAtemp release thread for features, installation instructions, and compatibility details. Downloads are distributed by the creator through Ko-fi.'
 sources:
 - kind: shop
   url: https://ko-fi.com/s/64c693989d
@@ -22,7 +20,7 @@ sources:
   url: https://gbatemp.net/threads/evil-dead-regeneration-remaster.682101
 media:
   images:
-  - source_url: https://i.imgur.com/ZuDMGa5.png
+  - source_url: https://storage.ko-fi.com/cdn/useruploads/display/a913f3dc-bed1-40a9-8a54-0ed2939e0337_logog.png
     alt: 'Evil Dead: Regeneration — Remaster cover artwork'
     credit: el-jefe-gaming
   videos:

@@ -2,15 +2,11 @@ key: evil-dead-fistful-of-boomstick-el-jefe-gaming
 name: 'Evil Dead: A Fistful of Boomstick — HD Pack'
 game:
   title: 'Evil Dead: A Fistful of Boomstick'
-  serials:
-  - SLUS-20403
 credits:
 - creator: el-jefe-gaming
   role: author
 type: mixed
-description: 'El Jefe Gaming HD texture pack for Evil Dead: A Fistful of Boomstick. See the linked GBAtemp
-  release thread for features, installation instructions, and compatibility details. Downloads are distributed
-  by the creator through Ko-fi.'
+description: 'El Jefe Gaming HD texture pack for Evil Dead: A Fistful of Boomstick. See the linked GBAtemp release thread for features, installation instructions, and compatibility details. Downloads are distributed by the creator through Ko-fi.'
 sources:
 - kind: shop
   url: https://ko-fi.com/s/f492f4bf7a
