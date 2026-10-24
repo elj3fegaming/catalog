@@ -1,0 +1,33 @@
+key: the-sopranos-el-jefe-gaming
+name: The Sopranos — HD Pack
+game:
+  title: 'The Sopranos: Road to Respect'
+credits:
+- creator: el-jefe-gaming
+  role: author
+type: mixed
+description: 'El Jefe Gaming HD texture pack for The Sopranos: Road to Respect. See the linked GBAtemp release thread for features, installation instructions, and compatibility details. Downloads are distributed by the creator through Ko-fi.'
+sources:
+- kind: shop
+  url: https://ko-fi.com/s/3be36e1983
+  primary: true
+  note: NetherSX2 (Android) download
+- kind: shop
+  url: https://ko-fi.com/s/22eb31601e
+  primary: false
+  note: PCSX2 (PC) download
+- kind: forum_thread
+  url: https://gbatemp.net/threads/the-sopranos-hd-slus-21388-update-pal-and-nstc-pcx2-and-android-nethersx2-1-9.668140
+media:
+  images:
+  - source_url: https://storage.ko-fi.com/cdn/useruploads/display/e24abb7c-60be-4d00-97f4-5d08d7bceec2_1779417074192.png
+    alt: The Sopranos — HD Pack cover artwork
+    credit: el-jefe-gaming
+  videos:
+  - provider: youtube
+    id: LKBeWcr2IBs
+  - provider: youtube
+    id: kqXVi6HpcTo
+hosting:
+  state: listed
+  reason: Creator distributes the pack via Ko-fi; third-party hosting is not authorized.

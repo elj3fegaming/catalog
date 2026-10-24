@@ -1,0 +1,33 @@
+key: shadow-of-the-colossus-colorful-el-jefe-gaming
+name: Shadow of the Colossus — Colorful Remake
+game:
+  title: Shadow of the Colossus
+credits:
+- creator: el-jefe-gaming
+  role: author
+type: mixed
+description: El Jefe Gaming HD texture pack for Shadow of the Colossus. See the linked GBAtemp release thread for features, installation instructions, and compatibility details. Downloads are distributed by the creator through Ko-fi.
+sources:
+- kind: shop
+  url: https://ko-fi.com/s/fe8cf42810
+  primary: true
+  note: NetherSX2 (Android) download
+- kind: shop
+  url: https://ko-fi.com/s/140fc944ba
+  primary: false
+  note: PCSX2 (PC) download
+- kind: forum_thread
+  url: https://gbatemp.net/threads/shadows-of-the-colossus-hdpack-pcsx2-and-android-nethersx2.673590
+media:
+  images:
+  - source_url: https://imagepaste.org/i/rnqyn8nz.gif
+    alt: Shadow of the Colossus — Colorful Remake cover artwork
+    credit: el-jefe-gaming
+  videos:
+  - provider: youtube
+    id: tSfA0qQtKLw
+  - provider: youtube
+    id: -vJ_8fcf7dw
+hosting:
+  state: listed
+  reason: Creator distributes the pack via Ko-fi; third-party hosting is not authorized.

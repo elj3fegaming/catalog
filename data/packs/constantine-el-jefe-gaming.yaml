@@ -1,0 +1,33 @@
+key: constantine-el-jefe-gaming
+name: Constantine — HD Remaster
+game:
+  title: Constantine
+credits:
+- creator: el-jefe-gaming
+  role: author
+type: mixed
+description: El Jefe Gaming HD texture pack for Constantine. See the linked GBAtemp release thread for features, installation instructions, and compatibility details. Downloads are distributed by the creator through Ko-fi.
+sources:
+- kind: shop
+  url: https://ko-fi.com/s/2f03dcab53
+  primary: true
+  note: NetherSX2 (Android) download
+- kind: shop
+  url: https://ko-fi.com/s/d53d1229ac
+  primary: false
+  note: PCSX2 (PC) download
+- kind: forum_thread
+  url: https://gbatemp.net/threads/constantine-remaster-ps2-hd-pack-slus-21142-pcsx2-android-nethersx2.674623
+media:
+  images:
+  - source_url: https://storage.ko-fi.com/cdn/useruploads/display/5fa2a4d9-7caa-4df4-9289-3726869e6a16_886dc8e0-7a2a-43ae-85fb-33fd961d9f92.jpg
+    alt: Constantine — HD Remaster cover artwork
+    credit: el-jefe-gaming
+  videos:
+  - provider: youtube
+    id: 0wrIxhJe9Os
+  - provider: youtube
+    id: KiAfCxgX9_A
+hosting:
+  state: listed
+  reason: Creator distributes the pack via Ko-fi; third-party hosting is not authorized.
